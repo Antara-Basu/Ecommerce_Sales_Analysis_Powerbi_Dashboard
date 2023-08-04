@@ -1,1 +1,59 @@
-  
+CASE STUDY QUESTIONS AND THEIR SOLUTIONS OBTAINED THROUGH DASHBOARD 
+
+Q1)Which are the Top 4 states where Madhav Stores generated the highest amount of profit?
+A1)In Descending order, they are Maharashtra, Madhya Pradesh, Uttar Pradesh, and Delhi.
+The stacked bar chart "SUM OF AMOUNT BY STATE" reveals the Top 4 states with the maximum profit, indicating the most profitable regions for the business.
+
+
+Q2)Which payment modes from (COD, Debit card, Credit card, UPI, etc.) used by customers for their orders were preferred the most? 
+A2)The donut chart "Quantity by Payment Mode" visually represents that COD was preferred the most with a percentage of 44.
+
+
+Q3)What is the distribution of payment modes by customers?
+A3) The distribution is like this: COD(44%), UPI(21%), Debit Card(21%), Credit Card(12%), and EMI(12%).
+The donut chart "Quantity by Payment Mode" visually represented the percentage distribution of different payment modes utilized by customers during their orders.
+
+
+Q4)How has the profit and loss varied on a monthly basis over the course of the year?
+A4)in the month of May, September, and December Madhav stores suffered losses. And in November, they got the most profit. The stacked column chart "Profit By Month" provides an overview of the profit and loss trend for each month, offering insights into seasonal patterns or fluctuations.
+So through visuals, we can see that the store should look on that why they incurred the loss and the possible amendments to be done. 
+Also to look at the factors which increased the profits of this month and try to apply them to months of loss or low profit.
+
+
+Q5)Who are the Top 4 customers in terms of the total amount spent on purchases from Madhav Stores?
+A5)Harivansh, Madhav, Madan Mohan, and Shiva are the top 4 customers. 
+The stacked column chart "Amount By Customers" presents the names of the Top 4 customers in terms of the total amount spent on purchases from Madhav Stores.
+Helping to identify preferred customers for special attention and rewards.
+
+
+Q6)Which category had more sales?
+A7)The most sales were in the clothing category at 66%, then electronics at 21%, and furniture at 17%.
+The donut chart "Quantity By Category" displays the percentage distribution of sales quantity among different product categories,
+giving an overview of the popularity of each category. So, the clothing products stock can be increased for further upliftment of sales for the store.
+
+
+Q7)Which are the Top 5 subcategories that contribute the most to Madhav Stores' overall profit?
+A8)The top 5 subcategories are Printers, Bookcases, Saree, Accessories, and Tables. 
+The bar chart "Profit by Top 5 Sub-Category" highlights the Top 5 subcategories with the highest profitability, 
+allowing the business to focus on increasing stock for these items.
+
+
+Q8)Which state or states have consistently shown a higher profit and total amount?
+A8)Maharashtra has shown a higher total amount spent on purchases from Madhav Stores. And Madhya Pradesh has higher profit all over INDIA in total in a year.
+So can be used to see the profitable, and total amount spent on purchases from Madhav Stores across regions or states. To see why these states have profit and try to implement them to other states too.
+The Statewise Reports slicer allows users to identify the state or states that consistently demonstrate higher profit and 
+total amount based on the selected periods.
+
+Q9)What is the total profit obtained by Madhav Stores?
+A9)7382 is the total profit obtained by Madhav Stores across all states. The card "Sum of Profit " displays the overall profit figure for Madhav Stores, summing up profits across all regions.
+
+Q10)How many quantities of products have Madhav Stores sold?
+A10)Madhav stores sold 5615 products. The card "Sum of Quantity " presents the total quantity of products sold by Madhav Stores across the country. They can use it to compare with different years and interpret how much they improved or if it was a downfall.
+
+Q11)What is the total monetary amount spent by customers at Madhav Stores?
+A11)Madhav stores earned 438K amount which is spent by customers. The card "Sum of Amount" shows the overall monetary spending by customers at Madhav Stores across India. Customers to prefer more by giving coupons, and discounts.
+
+
+Q12)What is the average order value received by Madhav Stores per order?  
+A12)The average order value received by Madhav Stores per order is 121K. The card "AOV (Average Order Value)" displays the average value received through each order, indicating the average spending per order for the business.
+
