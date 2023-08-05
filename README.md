@@ -8,7 +8,7 @@ Established data connections, join new tables, and performed calculations to man
 Leveraged a diverse range of customized visualizations, including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers, ensuring a rich and informative user experience.
 I uploaded datasets to the Power BI Desktop.
 
-Summary of Findings
+Summary of Findings:
 The Power BI dashboard provides valuable insights into Madhav Stores' performance, highlighting the top-performing states, popular product categories, preferred payment modes, and valuable customer segments. It offers actionable recommendations for improving sales, profitability, and customer engagement.
 
 Proposed Solutions:
