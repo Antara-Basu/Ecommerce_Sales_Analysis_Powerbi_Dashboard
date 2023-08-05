@@ -9,6 +9,7 @@ Leveraged a diverse range of customized visualizations, including bar charts, pi
 I uploaded datasets to the Power BI Desktop.
 
 Summary of Findings:
+
 The Power BI dashboard provides valuable insights into Madhav Stores' performance, highlighting the top-performing states, popular product categories, preferred payment modes, and valuable customer segments. It offers actionable recommendations for improving sales, profitability, and customer engagement.
 
 Proposed Solutions:
